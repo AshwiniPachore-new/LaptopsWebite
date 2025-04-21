@@ -35,6 +35,7 @@ const BrandProducts = () => {
               alt={lap.model}
               style={{ width: "100%", height: "150px", objectFit: "contain" }}
             />
+            
 
             <h4>{lap.model}</h4>
             <p>₹ {lap.price}</p>

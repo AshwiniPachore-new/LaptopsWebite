@@ -1,0 +1,36 @@
+
+.main {
+    padding: 60px;
+    text-align: center;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    background-image: url('/keybord.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+  
+  h2 {
+    margin-bottom: 40px;
+    font-size: 30px;
+    color: white;
+  }
+  
+  .brand {
+    background-color: white;
+    color: #101874;
+    padding: 20px 30px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .brand:hover {
+    background-color: #6b747e;
+    transform: scale(1.05);
+  }
+  

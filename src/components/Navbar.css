@@ -1,0 +1,33 @@
+ .nav{
+   display: flex;
+   background-color: rgb(3, 24, 82);
+   color: aliceblue;
+
+ }
+.navbar{
+   padding-top: 53px;
+   padding-left: 30%;
+   font-size: large;
+   
+}
+.navbar a {
+   color: white;
+   text-decoration: none; 
+   
+   text-shadow: 2px 2px 4px rgba(254, 253, 255, 0.945);
+}
+
+
+.navbar a:hover {
+   color: lightgray;
+}
+ .h2{
+   font-size:xx-large;
+    padding-left: 4px;
+    margin-top: 42px;
+    text-shadow: 2px 2px 4px rgba(254, 253, 255, 0.5);
+ }
+ .imglogo{
+    padding: 30px;
+    border-radius: 55px;
+ }
